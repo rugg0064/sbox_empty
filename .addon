@@ -1,4 +1,5 @@
 {
+    "sharedassets": "*.*",
     "type": "map",
     "ident":  "rugg.empty"
 }
